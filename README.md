@@ -1,9 +1,7 @@
-# altschool-sql-project-helper-guide
+# 🧰 AltSchool SQL Project Helper Kit
 💡 A beginner friendly survival guide to passing the AltSchool SQL project, step-by-step fixes, prettytable explanations, assertion error solutions, and more.
 
-# 🧰 AltSchool SQL Project Helper Kit
-
-🚀 **Welcome, SQL Warrior!**
+🚀 **Welcome, fellow colleagues!**
 This repo is your *survival kit* for completing the AltSchool Tinyuka 2nd semester SQL data analysis project without losing your mind. If you’re tired of “AssertionError” haunting you like a ghost and wondering why your code *looks right* but still fails, you're in the right place.
 
 I built this after submitting mine, facing a wild ride through:
@@ -19,11 +17,11 @@ Now I’ve wrapped it all up into one clean, beginner-proof repo, built so that 
 
 | File                        | Purpose                                                |
 | --------------------------- | ------------------------------------------------------ |
-| `notebook_instructions.md`  | Step-by-step from file upload to query writing         |
-| `assertion_error_fixes.md`  | How to debug “silent” assertion fails with `.equals()` |
-| `prettytable_guide.md`      | Why PrettyTable matters and how to format your output  |
-| `final_working_queries.sql` | All 5 SQL queries that passed, clean & copy-ready      |
-| `troubleshooting.md`        | Kernel restart tips, pip reinstall, and debug tricks   |
+| `01_notebook_setup_instructions.md`  | Step-by-step guide to set up and run the notebook inside Anaconda Jupyter         |
+| `02_handling_assertion_errors.md`  | How to debug “silent” assertion fails with `.equals()` |
+| `03_prettytable_fixes.md`      | Explains PrettyTable output formatting and how to resolve print issues  |
+| `04_final_working_queries.sql` | All five final and validated SQL queries with correct logic     |
+| `05_troubleshooting.md`        | Kernel restart tips, pip reinstall, and debug tricks   |
 
 ---
 
